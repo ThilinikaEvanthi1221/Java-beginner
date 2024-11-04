@@ -1,6 +1,5 @@
 
 //inheritance - get one class properties to another class
-import java.util.*;
 
 class Shape {
     String color;
